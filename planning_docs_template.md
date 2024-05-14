@@ -64,8 +64,6 @@ Include a link to your wire frames here. If you choose to sketch them by hand, t
 
 Include a link to your trello board or other project management tools you're using. Everything you have on this doc should be linked in the project management tool so it serves as your command center that has everything you need in it
 
-### Links
-
 * [Project Workflow or Turning User stories to Cards](https://github.com/10-6-pursuit/unit-front-end-web-development/tree/main/project-workflow)
 
 * [App planning](https://github.com/10-6-pursuit/unit-front-end-web-development/tree/main/app-planning)

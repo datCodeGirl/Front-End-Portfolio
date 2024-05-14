@@ -1,6 +1,8 @@
-### Setting Up the React Project
+# Instructions
 
-> Please Read the Instructions all the way through before starting to code
+Please Read the Instructions all the way through before starting to code
+
+### Setting Up the React Project
 
 1. **GitHub Repository**: *Do not fork this repo!* Create a new GitHub repository for your project. Initialize Git in your project folder and connect it to your GitHub repository.
 
@@ -83,3 +85,9 @@ Choose an external API from the provided list or explore other options based on 
 2. **Canvas Submission**: Submit the GitHub repository URL on Canvas for grading.
 
 Make sure to follow the instructions carefully and seek clarification from your instructors often. Happy coding!
+
+## Next step
+
+Head over to [The planning docs template](planning_docs_template.md) and make a copy of it. Work through the template, fill it out and follow the prompts there. 
+
+Once you complete working through the template you should have a solid understanding of what your website should look like and what 
