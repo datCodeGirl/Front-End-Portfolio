@@ -29,7 +29,6 @@ Include a link to your wire frames here. If you choose to sketch them by hand, t
 
 [Intro to Wire framing video](https://www.youtube.com/watch?v=qpH7-KFWZRI)
 
-
 ## Frontend Routes, React Components & Views
 
 > Note: This section will outline the routes and their corresponding React components. Meaning just the components that are a whole page/view. You can have more react components nested inside them if needed!
@@ -68,3 +67,6 @@ Include a link to your trello board or other project management tools you're usi
 
 * [App planning](https://github.com/10-6-pursuit/unit-front-end-web-development/tree/main/app-planning)
 
+## More Links and Resources
+
+[Basic of Web Design Deck](https://docs.google.com/presentation/d/1I_vOls7iGs2pK4-i4bICT2uUqI4ykJToh0oXSQFBcto/edit?usp=sharing)
