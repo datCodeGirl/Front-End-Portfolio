@@ -86,7 +86,7 @@ Choose an external API from the provided list or explore other options based on 
 
 Make sure to follow the instructions carefully and seek clarification from your instructors often. Happy coding!
 
-## Next step
+## How to start?
 
 Head over to [The planning docs template](planning_docs_template.md) and make a copy of it. Work through the template, fill it out and follow the prompts there. 
 
